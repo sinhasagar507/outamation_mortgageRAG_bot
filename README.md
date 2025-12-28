@@ -72,6 +72,8 @@ This mix covers common tasks for loan operations teams:
 
 ## RAG Pipeline Architecture
 
+![RAG_pipeline_architecture]()
+
 The multi-modal RAG pipeline has the following core components.
 
 ### OCR and Parsing
