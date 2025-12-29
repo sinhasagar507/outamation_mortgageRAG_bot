@@ -12,7 +12,7 @@ This project builds a document-aware Retrieval-Augmented Generation (RAG) pipeli
 
 The repository contains an end-to-end prototype of a mortgage document intelligence assistant:
 
-- Ingests a small corpus of 7 logical documents (20 pages) spanning contracts, detailed and simple payslips, a lender fee worksheet, and a functional resume.
+- Ingests a corpus of multiple logical documents spanning contracts, detailed and simple payslips, a lender fee worksheet, and a functional resume.
 - Uses PyMuPDF and PaddleOCR to robustly extract text from both digital and scanned PDFs.
 - Builds a hybrid retriever (dense MiniLM embeddings + BM25 + cross-encoder reranker) over chunked text with rich metadata (document type, file name, page range).
 - Serves answers through a Gradio web UI with:
