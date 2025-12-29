@@ -51,7 +51,7 @@ The slide deck in this repository summarizes the problem, architecture, and impa
 
 #### Corpus and Document Coverage
 
-The prototype focuses on a realistic, but controlled, mortgage pack:
+The prototype focuses on a realistic, but controlled, mortgage test set:
 
 - 7 logical documents / 20 total pages, auto-detected from uploaded PDFs:
   - 2 employment / services contracts  
@@ -410,4 +410,4 @@ UI and evaluation:
 
 ## Acknowledgement
 
-This project was developed as part of an AI externship focused on mortgage document intelligence. It builds on assignment materials, evaluation guidelines, and feedback from mentors and reviewers who helped shape the architecture, evaluation design, and final demo.
+The final notebook is a refined version of different concepts learnt and implemented over a span of 6-8 weeks. It was developed as part of an AI internship at [Extern](https://app.extern.com/home), in collaboration with [Outamation](https://outamation.com/), focusing on mortgage document intelligence. It builds on assignment materials, evaluation guidelines, and feedback from mentors and reviewers who helped shape the architecture, evaluation design, and final demo.
