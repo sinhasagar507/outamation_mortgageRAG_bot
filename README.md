@@ -313,7 +313,7 @@ Building on the current prototype, the following next steps are recommended.
 
 ## Notebook and Demo Instructions
 
-To run the RAG pipeline and Gradio demo locally or in Google Colab:
+To run the RAG pipeline and Gradio demo locally or in Google Colab (GPU must be enabled):
 
 ### 1. Open the Notebook
 
