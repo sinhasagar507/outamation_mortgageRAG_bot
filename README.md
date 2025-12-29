@@ -72,7 +72,7 @@ This mix covers common tasks for loan operations teams:
 
 ## RAG Pipeline Architecture
 
-![RAG_pipeline_architecture]()
+![RAG_pipeline_architecture](images/architecture.png)
 
 The multi-modal RAG pipeline has the following core components.
 
@@ -217,6 +217,7 @@ This makes performance transparent to both developers and demo users.
 ### Gradio UI Flow
 
 The interactive app guides users through three main panels.
+![gradio_UI](images/UI_image_1.jpg)
 
 #### Left Panel – Documents
 
